@@ -1,1 +1,2 @@
 # Facial-Expression-Recognition
+This collaborative team project focuses on facial recognition and expression recognition. It consists of three notebooks. The first notebook deals with expression recognition using Kaggle data, while the second one focuses on facial expression using data from 'Avengers' to detect the personalities of the characters. The main notebook combines these two models, importing them to recognize both the face and the expression. For more detailed information, please refer to the report located in the 'Final Report' directory.
